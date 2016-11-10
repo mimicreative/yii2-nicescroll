@@ -33,7 +33,7 @@ class NiceScrollAsset extends AssetBundle {
    */
   public $publishOptions = [
     'only' => [
-      'dist/'
+      'dist/**'
     ]
   ];
 }
